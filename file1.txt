@@ -1,6 +1,6 @@
 line1.
 line2.
-line//////3.
+line3.
 line4.
-line/////5.
+line5.
 line6.
